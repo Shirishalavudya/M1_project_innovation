@@ -1,5 +1,9 @@
 #  PROJECT ON RESERVATION OF TICKETS FOR CRICKET GAME
 
+## Badges
+
+[![CI](https://github.com/Shirishalavudya/M1_project_innovation/actions/workflows/main.yml/badge.svg)](https://github.com/Shirishalavudya/M1_project_innovation/actions/workflows/main.yml)
+
 ## Folder Structure
 Folder                   | Description
 -------------------------| -----------------------------------------
