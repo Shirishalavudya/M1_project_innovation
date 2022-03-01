@@ -1,6 +1,4 @@
-# stepin_bookcricket
-##MINI PROJECT ON RESERVATION OF TICKETS FOR CRICKET GAME
-
+#  PROJECT ON RESERVATION OF TICKETS FOR CRICKET GAME
 
 ## Folder Structure
 Folder                   | Description
