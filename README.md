@@ -8,6 +8,8 @@
 
 [![Unit Testing](https://github.com/Shirishalavudya/M1_project_innovation/actions/workflows/Unit.yml/badge.svg)](https://github.com/Shirishalavudya/M1_project_innovation/actions/workflows/Unit.yml)
 
+[![Cpp-Check](https://github.com/Shirishalavudya/M1_project_innovation/actions/workflows/Cpp.yml/badge.svg)](https://github.com/Shirishalavudya/M1_project_innovation/actions/workflows/Cpp.yml)
+
 ## Folder Structure
 Folder                   | Description
 -------------------------| -----------------------------------------
