@@ -4,6 +4,8 @@
 
 [![CI](https://github.com/Shirishalavudya/M1_project_innovation/actions/workflows/main.yml/badge.svg)](https://github.com/Shirishalavudya/M1_project_innovation/actions/workflows/main.yml)
 
+[![Build-Linux](https://github.com/Shirishalavudya/M1_project_innovation/actions/workflows/Build.yml/badge.svg)](https://github.com/Shirishalavudya/M1_project_innovation/actions/workflows/Build.yml)
+
 ## Folder Structure
 Folder                   | Description
 -------------------------| -----------------------------------------
