@@ -2,16 +2,6 @@
 ##MINI PROJECT ON BOOK_CRICKET
 
 
-![Capture](https://github.com/pavankalyanmedishetty/stepin_bookcricket/blob/37f8c6ce7ad83105ff7583f4f18c49c49d0820a7/6_ImagesAndVideos/bookcricket.jpg)
-
-## Badges
-![Code quality score](https://www.code-inspector.com/project/27544/score/svg)
-![Code grade](https://www.code-inspector.com/project/27544/status/svg)
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/52a6c05f6d1940c680671e6f02d9c6ee)](https://www.codacy.com/gh/pavankalyanmedishetty/stepin_bookcricket/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=pavankalyanmedishetty/stepin_bookcricket&amp;utm_campaign=Badge_Grade)
-[![cppcheck-action](https://github.com/pavankalyanmedishetty/stepin_bookcricket/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/pavankalyanmedishetty/stepin_bookcricket/actions/workflows/cppcheck.yml)
-[![Unit testing](https://github.com/pavankalyanmedishetty/stepin_bookcricket/actions/workflows/unit-test.yml/badge.svg)](https://github.com/pavankalyanmedishetty/stepin_bookcricket/actions/workflows/unit-test.yml)
-[![C/C++ CI](https://github.com/pavankalyanmedishetty/stepin_bookcricket/actions/workflows/c_build.yml/badge.svg)](https://github.com/pavankalyanmedishetty/stepin_bookcricket/actions/workflows/c_build.yml)
-[![Valgrind](https://github.com/pavankalyanmedishetty/stepin_bookcricket/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/pavankalyanmedishetty/stepin_bookcricket/actions/workflows/Valgrind.yml)
 ## Folder Structure
 Folder                   | Description
 -------------------------| -----------------------------------------
