@@ -29,5 +29,5 @@ PS No. |  Name               |    Features    | Issuess Raised |Issues Resolved|
 |3. | issues in running test cases | specifying correct return values for functions
 |4. | Issues in workflows | filxed them by updating the path to all files correctly
 ### References
-The “Book Cricket” Game Built via Modern JavaScript & HTML by Githanshu Chowdary
+The “Book Cricket” Game Built via Modern C & HTML by Githanshu Chowdary
 
