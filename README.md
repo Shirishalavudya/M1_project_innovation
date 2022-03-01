@@ -12,6 +12,11 @@
 
 [![Valgrind](https://github.com/Shirishalavudya/M1_project_innovation/actions/workflows/Val.yml/badge.svg)](https://github.com/Shirishalavudya/M1_project_innovation/actions/workflows/Val.yml)
 
+## Codecy Grade A
+
+![codecy badge](https://user-images.githubusercontent.com/99073372/156219384-c1737d02-4d11-4f75-806b-c919db068529.png)
+
+
 ## Folder Structure
 Folder                   | Description
 -------------------------| -----------------------------------------
