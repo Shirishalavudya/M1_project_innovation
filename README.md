@@ -10,6 +10,8 @@
 
 [![Cpp-Check](https://github.com/Shirishalavudya/M1_project_innovation/actions/workflows/Cpp.yml/badge.svg)](https://github.com/Shirishalavudya/M1_project_innovation/actions/workflows/Cpp.yml)
 
+[![Valgrind](https://github.com/Shirishalavudya/M1_project_innovation/actions/workflows/Val.yml/badge.svg)](https://github.com/Shirishalavudya/M1_project_innovation/actions/workflows/Val.yml)
+
 ## Folder Structure
 Folder                   | Description
 -------------------------| -----------------------------------------
