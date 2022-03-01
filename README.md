@@ -6,6 +6,8 @@
 
 [![Build-Linux](https://github.com/Shirishalavudya/M1_project_innovation/actions/workflows/Build.yml/badge.svg)](https://github.com/Shirishalavudya/M1_project_innovation/actions/workflows/Build.yml)
 
+[![Unit Testing](https://github.com/Shirishalavudya/M1_project_innovation/actions/workflows/Unit.yml/badge.svg)](https://github.com/Shirishalavudya/M1_project_innovation/actions/workflows/Unit.yml)
+
 ## Folder Structure
 Folder                   | Description
 -------------------------| -----------------------------------------
