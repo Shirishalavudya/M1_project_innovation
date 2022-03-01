@@ -1,5 +1,5 @@
 # stepin_bookcricket
-##MINI PROJECT ON BOOK_CRICKET
+##MINI PROJECT ON RESERVATION OF TICKETS FOR CRICKET GAME
 
 
 ## Folder Structure
