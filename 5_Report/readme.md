@@ -93,6 +93,15 @@ This application was developed in c language to avoid the complexity and keep it
 
 ![image](https://user-images.githubusercontent.com/99073372/156572187-c5e52d52-9ebc-4c92-a26c-71331980629b.png)
 
+# Benifits:
+
+1.Due to the pandemic situations,none can go out and play cricket,so they can play this book cricket instead.
+
+2.It can be played by everyone and everywhere irrespective of their age.
+
+
+
+
 
 
 
