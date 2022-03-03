@@ -38,6 +38,31 @@ b)Updating and Deleting a file was overcame by using a temporary file to store d
 
 The reservation of tickets or ticket booking that provides easy way of reservation and it reduces our time also.
 
+# 4 W's and 1H
+
+# Who
+
+Every person with electronic devices need games now a days.
+
+# What
+
+A book cricket game where two players can play with each other almost like real cricket.
+
+# When
+
+Due to the pandemic situations,none can go out and play cricket,so they can play this book cricket instead.
+
+# Where
+
+It can be played by everyone and everywhere irrespective of their age.
+
+# How
+
+This application was developed in c language to avoid the complexity and keep it simple.
+
+# SWOT Analysis:
+
+
 
 
 
