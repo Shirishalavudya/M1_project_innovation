@@ -68,6 +68,18 @@ This application was developed in c language to avoid the complexity and keep it
 
 # High Level Requirements
 
+| ID | DESCRIPTION | STATUS |
+|:--:|:---------:|:-----:|
+|HR01|Main Menu|Implemented|
+|HR02|Can be played by 2 players|Implemented|
+|HR03|Toss|Implemented|
+|HR04|Batting/Bowling|Implemented|
+|HR05|Graphical User Interface|Future|
+
+# Low level Requirements:
+
+
+
 
 
 
