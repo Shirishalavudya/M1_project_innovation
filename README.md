@@ -33,7 +33,7 @@ Folder                   | Description
 
 PS No. |  Name               |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 -------|---------------------|----------------|----------------|---------------|-------------|--------------
-99006209 |Pavan kalyan Medishetty  | Entire Project (Requirements, Architecture, Implementation and TestPlanAndOutput)  | 0        |0  |2 Overall Test cases  | All Passed     
+99007690 | Lavudya Shirihsa | Entire Project (Requirements, Architecture, Implementation ,TestPlanAndOutput and Report.)  | 0        |0  |2 Overall Test cases  | All Passed     
   
 
 ## Challenges Faced and How Was It Overcome
