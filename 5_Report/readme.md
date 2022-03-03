@@ -89,6 +89,12 @@ This application was developed in c language to avoid the complexity and keep it
 
 # Architecure:
 
+![image](https://user-images.githubusercontent.com/99073372/156572187-c5e52d52-9ebc-4c92-a26c-71331980629b.png)
+
+# Behavirol Diagram:
+
+
+
 
 
 
