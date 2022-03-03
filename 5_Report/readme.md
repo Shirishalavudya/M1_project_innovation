@@ -12,6 +12,34 @@ The project is titled as Book Cricket Game and developed using C language. Book 
 
 # FOLDER STRUCTURE
 
+|FOLDER|DESCRIPTION|
+|:----:|:---------:|
+|0_Certificates|All manditory certificates submitted|
+|1_Requirements|Documents detailing requirements|
+|2_Architecture|Structural and Behavioural UML|
+|3_Implementation|All the code is written here|
+|4_TestPlanAndOutput|Documents with test plans and outputs|
+|5_Report|Generated Report|
+|6_ImagesandVideos|All the images and program execution video|
+
+# Challenges Faced and How Was It Overcome:
+
+a)Struggled with implementing the whole code and hence use Breakpoint which helps in solving on a particular stream.
+
+b)Updating and Deleting a file was overcame by using a temporary file to store data for some time.
+# Learning Resources:
+1)sololearn
+
+2)Geeksforgeeks
+
+3)Hackerearth
+
+# Objectives:
+
+The reservation of tickets or ticket booking that provides easy way of reservation and it reduces our time also.
+
+
+
 
 
 
