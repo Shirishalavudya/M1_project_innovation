@@ -62,6 +62,13 @@ This application was developed in c language to avoid the complexity and keep it
 
 # SWOT Analysis:
 
+![image](https://user-images.githubusercontent.com/99073372/156571340-ab4d8030-f6f9-4d74-8442-88eba3b10828.png)
+
+# Detail Requirements
+
+# High Level Requirements
+
+
 
 
 
