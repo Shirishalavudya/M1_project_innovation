@@ -78,6 +78,17 @@ This application was developed in c language to avoid the complexity and keep it
 
 # Low level Requirements:
 
+| ID | DESCRIPTION | HR ID | STATUS |
+|:--:|:------------:|:---:|:--------:|
+|LR01|Main menu should consist 4 options asking for 1.Limited Overs 2.Play Until Out 3.Instructions For the Game 4.Quit|HR01|Implemented|
+|LR02|Reading the names of the two players and asking for the selection of head/tail while tossing the coin.|HR02|Implemented|
+|LR03|Implementing a function which takes the users according to the toss for the next steps which are batting/bowling.|HR03|Implemented|
+|LR04|If user searches for an invalid key "Invalid Input" message should be displayed|HR03|Implemented|
+|LR05|Implementing a fnction named batting which returns the total sum of the score of the two players.|HR04|Implemented|
+|LR06|A clean graphical user interface with all required buttons for ease of use|HR05|Future|
+
+# Architecure:
+
 
 
 
